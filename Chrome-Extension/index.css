@@ -35,6 +35,10 @@ button {
 
 }
 
+#delete-btn {
+    background-color: #740001;
+}
+
 li {
     list-style-image: url(/saved-search.png);
 }
