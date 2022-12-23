@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #E0A899;
+    min-width: 400px;
+}
+
+/*
+
+Style our app according to the provided design!
+green color -> #5f9341
+
+*/
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    height: 40px;
+    border: 1px solid #66545E;
+
+}
+
+button {
+    color: white;
+    background-color: #66545E;
+    height: 40px;
+    margin-top: 6px;
+    width: 150px;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-weight: bold;
+
+}
+
+li {
+    list-style-image: url(/saved-search.png);
+}
+
+a {
+    text-decoration: none;
+    color: #333333;
+    font-weight: bold;
+}
+
+/* button:focus, input[type="button"]:focus {  
+    outline: none;
+}                                          // <-remove blue highlight from button. N.B - Apparaently is used for accessibility purposes. Not recommended*/
