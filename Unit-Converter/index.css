@@ -1,0 +1,64 @@
+body {
+    background-color: white
+}
+
+h1 {
+    font-size: 16px;
+}
+
+.container {
+    background-color: antiquewhite;
+    border-radius: 5px;
+    text-align: center
+}
+
+#top {
+    background-color: purple;
+    padding: 20px;
+    border-radius: 5px;
+    border-bottom: none;
+    color: white;
+}
+
+input {
+    height: 60px;
+    width: 70px;
+    border-color: #CCCCFF;
+    margin-bottom: 8px;
+    background: transparent;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+}
+
+button {
+    border: none;
+    border-radius: 2px;
+    padding: 10px;
+    margin-top: 8px;
+}
+
+#len {
+    background-color: white;
+    color: purple;
+    padding: 8px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+#vol {
+    background-color: white;
+    color: purple;
+    padding: 8px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+#ma {
+    background-color: white;
+    color: purple;
+    padding: 8px;
+    border-radius: 10px;
+    margin: 10px;
+}

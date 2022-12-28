@@ -1,0 +1,25 @@
+html,
+body {
+    height: 100%;
+    width: 100%;
+    margin: 20px;
+
+}
+
+p {
+    color: white;
+    font-size: 25px;
+    background-color: black;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+button {
+    height: 50px;
+    width: 100px;
+    font-weight: bold;
+    background: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+    transform: translateY(2px);
+}
